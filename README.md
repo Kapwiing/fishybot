@@ -10,6 +10,9 @@ This bot is for demonstration purposes only and is not meant to be used as a far
 
 # Requirements
   - Python 3 or higher
+  - pyautogui ``pip install pyautogui``
+  - keyboard `` pip install keyboard``
+  - time and sys modules
 
 # Usage
  - Position yourself in the game in a way your line can be casted
